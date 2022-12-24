@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning
   * PHP / Magento 2 / Wordpress
   * ReactJs / Nextjs / React Native
-  * Vue ( Quasar)
+  * Vue / Quasar
+  * Docker
   * NewRelic / Redis / RabbitMq / Varnish
  
 
