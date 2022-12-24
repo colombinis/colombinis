@@ -2,6 +2,8 @@ version: "3.9"
 
 services:
   php8:
+    extra_hosts:
+    - "host.docker.internal:host-gateway"
     build:
       context: .
       dockerfile: Dockerfile_php8cli
