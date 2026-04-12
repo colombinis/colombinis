@@ -11,3 +11,15 @@
 - 📫 How to reach me:
   * https://twitter.com/seba_colombini 
 
+## 🚀 Tendencias Tecnológicas en Argentina
+<!-- TRENDS_START -->
+
+*Última actualización: 2026-04-12 03:27 (Argentina)*
+
+- **PHP**: php windows
+- **Magento**: magento ecommerce
+- **React**: framer motion react, create react app, node js
+- **Wordpress**: themeforest, how to install wordpress
+- **Vue**: paris match, vue router, point de vue
+
+<!-- TRENDS_END -->
