@@ -7,7 +7,11 @@ import time
 
 def fetch_trends():
     pytrends = TrendReq(hl='es-AR', tz=180)
-    keywords = ['PHP', 'Magento', 'React', 'Docker', 'Wordpress', 'Nextjs', 'Vue']
+    keywords = [
+        'PHP', 'Magento', 'React', 'Docker', 'Wordpress',
+        'Nextjs', 'Vue', 'opencode', 'laravel', 'IA',
+        'mage-os', 'marko'
+    ]
 
     trends_report = []
 
@@ -32,7 +36,7 @@ def fetch_trends():
             continue
 
     if not trends_report:
-        return "No se encontraron tendencias significativas en la última semana."
+        return "No se encontraron tendencias significativas en la última semana para el stack tecnológico."
 
     return "\n".join([f"- {item}" for item in trends_report])
 

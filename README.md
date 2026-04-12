@@ -14,12 +14,14 @@
 ## 🚀 Tendencias Tecnológicas en Argentina
 <!-- TRENDS_START -->
 
-*Última actualización: 2026-04-12 03:27 (Argentina)*
+*Última actualización: 2026-04-12 03:37 (Argentina)*
 
 - **PHP**: php windows
-- **Magento**: magento ecommerce
-- **React**: framer motion react, create react app, node js
-- **Wordpress**: themeforest, how to install wordpress
+- **React**: flutter
 - **Vue**: paris match, vue router, point de vue
+- **opencode**: gemma 4, opencode go, opencode web
+- **laravel**: filament laravel
+- **IA**: kiwi ia, astra ia, ia para estudiar
+- **marko**: marko dmitrović, marko topo, marko milinkovic
 
 <!-- TRENDS_END -->
