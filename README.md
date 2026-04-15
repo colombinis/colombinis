@@ -14,14 +14,14 @@
 ## 🚀 Tendencias Tecnológicas en Argentina
 <!-- TRENDS_START -->
 
-*Última actualización: 2026-04-12 03:37 (Argentina)*
+*Última actualización: 2026-04-15 01:20 (Argentina)*
 
-- **PHP**: php windows
-- **React**: flutter
-- **Vue**: paris match, vue router, point de vue
-- **opencode**: gemma 4, opencode go, opencode web
-- **laravel**: filament laravel
-- **IA**: kiwi ia, astra ia, ia para estudiar
-- **marko**: marko dmitrović, marko topo, marko milinkovic
+- **PHP**: php download
+- **React**: react flow, typescript, create react app
+- **Wordpress**: wordpres, wordpress logo, wordpress download
+- **Vue**: paris match, point de vue
+- **opencode**: pi vs opencode, google ai studio, hermes agent
+- **laravel**: github, laravel cloud
+- **IA**: astra ia, oreate ia
 
 <!-- TRENDS_END -->
