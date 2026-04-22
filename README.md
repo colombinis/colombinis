@@ -14,14 +14,13 @@
 ## 🚀 Tendencias Tecnológicas en Argentina
 <!-- TRENDS_START -->
 
-*Última actualización: 2026-04-15 01:20 (Argentina)*
+*Última actualización: 2026-04-22 01:21 (Argentina)*
 
-- **PHP**: php download
-- **React**: react flow, typescript, create react app
-- **Wordpress**: wordpres, wordpress logo, wordpress download
-- **Vue**: paris match, point de vue
-- **opencode**: pi vs opencode, google ai studio, hermes agent
-- **laravel**: github, laravel cloud
-- **IA**: astra ia, oreate ia
+- **React**: nike react pegasus trail 4, react development, react table
+- **Docker**: docker ps, what is docker compose, podman
+- **Wordpress**: how to install wordpress
+- **Vue**: vue js
+- **opencode**: kimi k2.6, minimax, opencode vs claude code
+- **marko**: marko zaror
 
 <!-- TRENDS_END -->
