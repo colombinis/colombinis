@@ -14,8 +14,14 @@
 ## 🚀 Tendencias Tecnológicas en Argentina
 <!-- TRENDS_START -->
 
-*Última actualización: 2026-04-29 01:52 (Argentina)*
+*Última actualización: 2026-05-01 01:54 (Argentina)*
 
-No se encontraron tendencias significativas en la última semana para el stack tecnológico.
+- **PHP**: usd to php today
+- **React**: react development
+- **Docker**: what is a docker image, docker containerization
+- **Vue**: point de vue
+- **opencode**: deepseek api, supabase, warp
+- **IA**: dola ia, dola
+- **marko**: cain marko
 
 <!-- TRENDS_END -->
