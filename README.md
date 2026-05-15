@@ -14,8 +14,11 @@
 ## 🚀 Tendencias Tecnológicas en Argentina
 <!-- TRENDS_START -->
 
-*Última actualización: 2026-05-08 01:54 (Argentina)*
+*Última actualización: 2026-05-15 02:00 (Argentina)*
 
-No se encontraron tendencias significativas en la última semana para el stack tecnológico.
+- **React**: shadcn, zustand, react development
+- **Wordpress**: wordpress developer
+- **laravel**: que es laravel, php
+- **marko**: marko stamenic, marko topo
 
 <!-- TRENDS_END -->
