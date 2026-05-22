@@ -14,11 +14,16 @@
 ## 🚀 Tendencias Tecnológicas en Argentina
 <!-- TRENDS_START -->
 
-*Última actualización: 2026-05-15 02:00 (Argentina)*
+*Última actualización: 2026-05-22 02:07 (Argentina)*
 
-- **React**: shadcn, zustand, react development
-- **Wordpress**: wordpress developer
-- **laravel**: que es laravel, php
-- **marko**: marko stamenic, marko topo
+- **PHP**: xampp, que es php
+- **React**: expo react native, vite react, vite
+- **Docker**: codex, github
+- **Wordpress**: wordpress 7.0, elementor, wix
+- **Vue**: vue js, pearson vue, point de vue
+- **opencode**: how to update opencode, opencode update, google ai studio
+- **laravel**: que es laravel, laravel cloud, php
+- **IA**: crushon ia
+- **marko**: marko topo, marko arnautović, flint marko
 
 <!-- TRENDS_END -->
