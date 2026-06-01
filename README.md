@@ -14,12 +14,14 @@
 ## 🚀 Tendencias Tecnológicas en Argentina
 <!-- TRENDS_START -->
 
-*Última actualización: 2026-05-29 02:02 (Argentina)*
+*Última actualización: 2026-06-01 02:33 (Argentina)*
 
-- **React**: react query
-- **Docker**: what is a docker image, nginx docker
-- **Vue**: point de vue
-- **opencode**: cline, node js, qwen
-- **marko**: flint marko, helmut marko, marko arnautović
+- **React**: nike react element 55, react query, github
+- **Docker**: docker containerization, what is a docker image
+- **Wordpress**: figma, hostinger
+- **opencode**: update opencode, openclaw, deepseek
+- **laravel**: laravel lang, laravel version
+- **IA**: ia agéntica, caracter ia
+- **marko**: flint marko, flint marko spider noir, marko zaror
 
 <!-- TRENDS_END -->
