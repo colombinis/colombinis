@@ -14,12 +14,14 @@
 ## 🚀 Tendencias Tecnológicas en Argentina
 <!-- TRENDS_START -->
 
-*Última actualización: 2026-06-15 02:36 (Argentina)*
+*Última actualización: 2026-06-22 02:37 (Argentina)*
 
-- **PHP**: dollar to php
-- **React**: react hooks, lidl near me, react 19
-- **Docker**: what is a docker image, what is a docker container, docker containerization
+- **PHP**: software testing strategies
+- **React**: walmart near me, react docs, react development
+- **Docker**: software testing strategies, frontend frameworks, walmart near me
 - **Wordpress**: how to install wordpress
-- **Vue**: point de vue
+- **opencode**: glm 5.2, glm, oh my opencode
+- **IA**: caracter ia
+- **marko**: marko irak, marko stamenić, marko arnautović
 
 <!-- TRENDS_END -->
