@@ -14,14 +14,13 @@
 ## 🚀 Tendencias Tecnológicas en Argentina
 <!-- TRENDS_START -->
 
-*Última actualización: 2026-06-22 02:37 (Argentina)*
+*Última actualización: 2026-06-29 02:13 (Argentina)*
 
-- **PHP**: software testing strategies
-- **React**: walmart near me, react docs, react development
-- **Docker**: software testing strategies, frontend frameworks, walmart near me
-- **Wordpress**: how to install wordpress
-- **opencode**: glm 5.2, glm, oh my opencode
-- **IA**: caracter ia
-- **marko**: marko irak, marko stamenić, marko arnautović
+- **PHP**: what is php
+- **React**: vue
+- **opencode**: openclaw vs opencode, nodejs, qwen
+- **laravel**: laravel blade
+- **IA**: oreate ia
+- **marko**: marko jarić, helmut marko, marko arnautović
 
 <!-- TRENDS_END -->
