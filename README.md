@@ -14,15 +14,14 @@
 ## 🚀 Tendencias Tecnológicas en Argentina
 <!-- TRENDS_START -->
 
-*Última actualización: 2026-07-01 02:13 (Argentina)*
+*Última actualización: 2026-07-08 01:26 (Argentina)*
 
-- **PHP**: usd vs php, laravel
-- **React**: node js, react bootstrap, vercel
+- **React**: zustand, lucide react icons, nike react
 - **Docker**: docker desktop
-- **Wordpress**: hostinger, shopify, wordpress que es
-- **Vue**: vue js, pearson vue
-- **opencode**: hermes agent, opencode plugins
-- **laravel**: laravel php, php
-- **marko**: dorian marko cornfield chase, marko jarić, flint marko
+- **Wordpress**: wordpress login, wordpress que es
+- **opencode**: opencode insufficient balance, node js, aider
+- **laravel**: laravel breeze, laravel boost, laravel cloud
+- **IA**: capibara ia
+- **marko**: helmut marko, saša kalajdžić, marko silva
 
 <!-- TRENDS_END -->
