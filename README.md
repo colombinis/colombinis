@@ -14,14 +14,10 @@
 ## 🚀 Tendencias Tecnológicas en Argentina
 <!-- TRENDS_START -->
 
-*Última actualización: 2026-07-08 01:26 (Argentina)*
+*Última actualización: 2026-07-15 01:15 (Argentina)*
 
-- **React**: zustand, lucide react icons, nike react
-- **Docker**: docker desktop
-- **Wordpress**: wordpress login, wordpress que es
-- **opencode**: opencode insufficient balance, node js, aider
-- **laravel**: laravel breeze, laravel boost, laravel cloud
-- **IA**: capibara ia
-- **marko**: helmut marko, saša kalajdžić, marko silva
+- **Docker**: docker containerization, what is docker compose
+- **Wordpress**: godaddy, how to install wordpress
+- **opencode**: grok, opencode web, lsp opencode
 
 <!-- TRENDS_END -->
