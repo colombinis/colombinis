@@ -8,9 +8,14 @@ import time
 def fetch_trends():
     pytrends = TrendReq(hl='es-AR', tz=180)
     keywords = [
-        'PHP', 'Magento', 'React', 'Docker', 'Wordpress',
-        'Nextjs', 'Vue', 'opencode', 'laravel', 'IA',
-        'mage-os', 'marko'
+        'IA', 'IA generativa', 'LLM', 'RAG', 'agentes IA',
+        'n8n', 'LangChain', 'LangGraph', 'LlamaIndex',
+        'llama.cpp', 'vLLM', 'ollama', 'GGUF',
+        'vector database', 'Qdrant', 'Weaviate', 'Chroma',
+        'MCP', 'Model Context Protocol',
+        'Python', 'FastAPI', 'Pydantic',
+        'PHP', 'Laravel', 'Magento',
+        'Docker', 'TypeScript', 'Node.js'
     ]
 
     trends_report = []
@@ -24,11 +29,10 @@ def fetch_trends():
             if kw in related_queries:
                 rising = related_queries[kw]['rising']
                 if rising is not None and not rising.empty:
-                    # Tomar los 3 primeros en aumento
                     top_rising = rising.head(3)['query'].tolist()
                     trends_report.append(f"**{kw}**: " + ", ".join(top_rising))
 
-            # Pequeña pausa para evitar rate limiting
+            # Small pause to avoid rate limiting
             time.sleep(1)
 
         except Exception as e:
@@ -36,27 +40,27 @@ def fetch_trends():
             continue
 
     if not trends_report:
-        return "No se encontraron tendencias significativas en la última semana para el stack tecnológico."
+        return "No se encontraron tendencias significativas en la última semana para el stack IA/PHP."
 
     return "\n".join([f"- {item}" for item in trends_report])
 
-def update_readme(trends_content):
-    readme_path = 'README.md'
+def update_trends(trends_content):
+    readme_path = 'TRENDS.md'
     if not os.path.exists(readme_path):
-        print("README.md not found")
+        print("TRENDS.md not found")
         return
 
     with open(readme_path, 'r', encoding='utf-8') as f:
         content = f.read()
 
-    # Marcadores
+    # Markers
     start_marker = "<!-- TRENDS_START -->"
     end_marker = "<!-- TRENDS_END -->"
 
     now = datetime.now().strftime("%Y-%m-%d %H:%M")
     new_section = f"{start_marker}\n\n*Última actualización: {now} (Argentina)*\n\n{trends_content}\n\n{end_marker}"
 
-    # Reemplazar el contenido entre los marcadores
+    # Replace content between markers
     pattern = re.compile(f"{re.escape(start_marker)}.*?{re.escape(end_marker)}", re.DOTALL)
     updated_content = pattern.sub(new_section, content)
 
@@ -64,7 +68,7 @@ def update_readme(trends_content):
         f.write(updated_content)
 
 if __name__ == "__main__":
-    print("Iniciando actualización de tendencias...")
+    print("Iniciando actualización de tendencias tech Argentina (IA + stack senior)...")
     trends = fetch_trends()
-    update_readme(trends)
+    update_trends(trends)
     print("Actualización completada.")
