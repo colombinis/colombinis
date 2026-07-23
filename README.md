@@ -1,29 +1,28 @@
 ### Hi there 👋
 
-**Sebastián Colombini** — Senior Software Engineer · 20+ años construyendo plataformas web
+**Sebastián Colombini** — Senior Software Engineer · 10+ años construyendo plataformas web
 
 ---
 
 ```yaml
 stack:
   php: [Laravel, WordPress, Magento 2, WooCommerce, CakePHP]
-  node:  [NestJS, Express, Next.js]
+  node: [NestJS, Express, Next.js]
   python: [FastAPI, Django]
   frontend: [React, Vue, Astro, Tailwind]
   infra: [Docker, AWS, CI/CD, MySQL, PostgreSQL, Redis]
-  ia_aplicada: [OpenAI API, RAG, n8n, LangChain, LLMs locales, embeddings]
+  explorando_ia: [OpenAI API, RAG, n8n, LangChain, LLMs locales, embeddings]
 ```
 
-**Experiencia real aplicando IA sobre ecosistemas PHP.**
-
-No hago IA pura. Hago **IA que resuelve problemas reales** dentro de WordPress, Magento 2 y Laravel.
+PHP es mi ecosistema principal. Estoy **explorando activamente IA aplicada** para resolver problemas reales dentro de WordPress, Magento 2 y Laravel.
 
 ---
 
-### 🧠 Proyectos IA + PHP (en desarrollo)
+### 🧠 Proyectos IA + PHP (en exploración)
 
 | Proyecto | Stack | Concepto |
 |----------|-------|----------|
+| **[PHP + Ollama RAG Chatbot](https://github.com/colombinis/php-ollama-rag-chatbot)** | PHP vanilla + Ollama (llama3.2) + SQLite | Chatbot RAG completo: embeddings + búsqueda semántica + LLM local. Zero framework dependencies. Mock mode sin Ollama. |
 | **AI Product Descriptions** | WordPress/Magento + LLM + Vision API | Plugin/módulo que genera descripciones de producto por perfil demográfico usando IA |
 | **Admin Assistant Chat** | WordPress/Magento + RAG | Chatbot embebido en el admin que responde "¿cómo cambio la home? / ¿dónde configuro X?" |
 | **n8n + PHP Workflows** | n8n + Laravel APIs | Automatizaciones enterprise conectando CRMs, ERPs y e-commerce |
@@ -52,7 +51,3 @@ En transición de Senior PHP Dev a **Consultoría de IA aplicada** — combinand
 ### 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-colombini/) [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/seba_colombini) [![Web](https://img.shields.io/badge/Web-sacsi.com.ar-2ea44f?style=flat)](https://www.sacsi.com.ar)
-
----
-
-> *20 años resolviendo problemas con código. Ahora resolviéndolos con IA aplicada al stack que conozco.*
