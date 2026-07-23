@@ -1,31 +1,52 @@
-### Hi there 👋
+### Hola 👋, Soy **Sebastián Colombini**
 
-**Sebastián Colombini** — Senior Software Engineer · 10+ años construyendo plataformas web
+Senior Software Engineer (10+ años de experiencia). PHP es mi ecosistema principal — **Laravel, WordPress, Magento 2**. Aplico **IA a e-commerce y plataformas PHP** para resolver problemas de negocio reales.
 
 ---
+### 🎯 Skills
 
 ```yaml
 stack:
-  php: [Laravel, WordPress, Magento 2, WooCommerce, CakePHP]
-  node: [NestJS, Express, Next.js]
-  python: [FastAPI, Django]
-  frontend: [React, Vue, Astro, Tailwind]
+  php: [Laravel, WordPress, Magento 2, WooCommerce]
+  python: [Django]
+  frontend: [Astro, Tailwind]
   infra: [Docker, AWS, CI/CD, MySQL, PostgreSQL, Redis]
-  explorando_ia: [OpenAI API, RAG, n8n, LangChain, LLMs locales, embeddings]
+  ia: [OpenAI API, RAG, n8n, LangChain, LLMs locales, embeddings]
 ```
-
-PHP es mi ecosistema principal. Estoy **explorando activamente IA aplicada** para resolver problemas reales dentro de WordPress, Magento 2 y Laravel.
-
 ---
 
-### 🧠 Proyectos IA + PHP (en exploración)
+### 🧠 Proyectos IA + PHP 
 
 | Proyecto | Stack | Concepto |
 |----------|-------|----------|
-| **[PHP + Ollama RAG Chatbot](https://github.com/colombinis/php-ollama-rag-chatbot)** | PHP vanilla + Ollama (llama3.2) + SQLite | Chatbot RAG completo: embeddings + búsqueda semántica + LLM local. Zero framework dependencies. Mock mode sin Ollama. |
-| **AI Product Descriptions** | WordPress/Magento + LLM + Vision API | Plugin/módulo que genera descripciones de producto por perfil demográfico usando IA |
-| **Admin Assistant Chat** | WordPress/Magento + RAG | Chatbot embebido en el admin que responde "¿cómo cambio la home? / ¿dónde configuro X?" |
+| **[PHP + Ollama RAG Chatbot](https://github.com/colombinis/php-ollama-rag-chatbot)** | PHP vanilla + Ollama (llama3.2) + SQLite + LangChain | Chatbot RAG completo: embeddings + búsqueda semántica + LLM local + orquestación con LangChain. Zero framework dependencies. Mock mode sin Ollama. |
+| **AI Automatizar carga de producto** | Magento 2 / WooCommerce + LLM + Vision API | Módulo que genera descripciones de producto por perfil demográfico usando IA |
+| **AI Contenido ultra personalizado** | WordPress + LLM client-side + GEO IP API | Plugin que genera contenido dinámico por segmentos de potenciales clientes (país, ciudad, dispositivo, referrer) usando IA |
+| **AI Admin Assistant (WordPress)** | WordPress + RAG + LLM local | Plugin que responde "¿cómo cambio la home? / ¿dónde configuro X?" desde el admin de WordPress |
+| **AI Admin Assistant (Magento 2)** | Magento 2 + RAG + LLM local | Módulo que responde preguntas de configuración y soporte desde el admin de Magento 2 |
 | **n8n + PHP Workflows** | n8n + Laravel APIs | Automatizaciones enterprise conectando CRMs, ERPs y e-commerce |
+| **Magento 2 Hyva Theme** | Magento 2 + Hyva + Alpine.js + Tailwind | Theme custom optimizado (LCP < 2.5s, zero JS bloqueante) |
+| **Magento 2 Headless + Astro** | Magento 2 + GraphQL + Astro.js | Frontend headless con catálogo + entidad "Amigos Recomendados" |
+| **WordPress Headless + Astro** | WordPress (API) + Astro.js | WP como CMS headless con frontend estático y preview en vivo |
+
+
+---
+
+### 🔩 Stack PYTHON / ERP
+
+| Proyecto | Stack | Concepto |
+|----------|-------|----------|
+| **Django REST API** | Django + DRF | API RESTful con JWT, paginación y documentación Swagger |
+| **Odoo ERP** | Odoo (Community) | Módulos de inventario, ventas, contabilidad y manufactura |
+
+---
+
+### 🔩 Infraestructura y Plataformas
+
+| Proyecto | Stack | Concepto |
+|----------|-------|----------|
+| **AWS Local con MiniStack** | MiniStack + S3, DynamoDB, Lambda, SQS, RDS, ElastiCache | Arquitectura serverless local: Lambda + API Gateway + DynamoDB + S3 + PostgreSQL + Redis + pipeline CI/CD |
+| **Shopify Theme Personalizado** | Shopify + Liquid | Sections dinámicas, metafields y personalización avanzada |
 
 ---
 
@@ -37,14 +58,6 @@ PHP es mi ecosistema principal. Estoy **explorando activamente IA aplicada** par
 - **TradeHelm, Inc.** — Senior Software Engineer (Laravel, Vue.js, React, GraphQL)
 - **Globant** — Senior Software Engineer (Drupal, PHP, jQuery)
 - *Y anteriormente: SoftING SRL, EIyS S.A. — desde 2002*
-
----
-
-### 🎯 Hoy
-
-En transición de Senior PHP Dev a **Consultoría de IA aplicada** — combinando mi experiencia arquitectónica en sistemas PHP con la nueva capa de inteligencia artificial para resolver problemas de negocio reales.
-
-**Intereses activos:** RAG · LLMs locales (llama.cpp, vLLM) · n8n · MCP servers · LangChain/LangGraph · Evaluación de modelos · AI + e-commerce
 
 ---
 
