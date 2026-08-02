@@ -1,16 +1,11 @@
 
 start_marker = "<!-- TRENDS_START -->
 
-*Última actualización: 2026-07-26 05:55 (Argentina)*
+*Última actualización: 2026-08-02 05:50 (Argentina)*
 
-- **IA**: ia writer, kimi k3, kimi ia
-- **LLM**: kimi k3, notebook lm
-- **RAG**: rag meaning
-- **n8n**: n8n.io, supabase, n8n io
-- **ollama**: hugging face, instalar ollama, que es ollama
-- **vector database**: what is a vector database
-- **MCP**: walmart near me, unity mcp
-- **Python**: how to learn python, django python, python data analysis
-- **PHP**: laravel
+- **agentes IA**: que son los agentes de ia
+- **n8n**: n8, cursor, google ai studio
+- **ollama**: groq, ollama kimi k3, visual studio code
+- **MCP**: google ads mcp, context7 mcp, composio
 
 <!-- TRENDS_END -->"
