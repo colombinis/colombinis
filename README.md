@@ -22,7 +22,7 @@ stack:
 | **[PHP + Ollama RAG Chatbot](https://github.com/colombinis/php-ollama-rag-chatbot)** | PHP vanilla + Ollama (llama3.2) + SQLite + LangChain | Chatbot RAG completo: embeddings + búsqueda semántica + LLM local + orquestación con LangChain. Zero framework dependencies. Mock mode sin Ollama. |
 | **AI Automatizar carga de producto** | Magento 2 / WooCommerce + LLM + Vision API | Módulo que genera descripciones de producto por perfil demográfico usando IA |
 | **AI Contenido ultra personalizado** | WordPress + LLM client-side + GEO IP API | Plugin que genera contenido dinámico por segmentos de potenciales clientes (país, ciudad, dispositivo, referrer) usando IA |
-| **AI Admin Assistant (WordPress)** | WordPress + RAG + LLM local | Plugin que responde "¿cómo cambio la home? / ¿dónde configuro X?" desde el admin de WordPress |
+| **[AI Admin Assistant (WordPress)](https://github.com/colombinis/ai-admin-assistant-wordpress)** | WordPress + RAG + Ollama + Docker | Chatbot RAG para el admin de WP: embeddings + búsqueda semántica + LLM local (llama3.2). Sin APIs externas, sin costos recurrentes. Desarrollado con Spec-Driven Development, 6 clases PHP, 4 servicios Docker. Mock mode sin GPU. |
 | **AI Admin Assistant (Magento 2)** | Magento 2 + RAG + LLM local | Módulo que responde preguntas de configuración y soporte desde el admin de Magento 2 |
 | **n8n + PHP Workflows** | n8n + Laravel APIs | Automatizaciones enterprise conectando CRMs, ERPs y e-commerce |
 | **Magento 2 Hyva Theme** | Magento 2 + Hyva + Alpine.js + Tailwind | Theme custom optimizado (LCP < 2.5s, zero JS bloqueante) |
