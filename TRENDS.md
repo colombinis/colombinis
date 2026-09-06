@@ -1,12 +1,18 @@
 
 start_marker = "<!-- TRENDS_START -->
 
-*Última actualización: 2026-08-30 08:50 (Argentina)*
+*Última actualización: 2026-09-06 07:30 (Argentina)*
 
-- **LLM**: lite llm
-- **n8n**: n8n io, claude code
-- **ollama**: open code, open webui, ollama que es
-- **MCP**: perplexity mcp, higgsfield mcp, higgsfield
-- **Python**: automate the boring stuff with python, tkinter python, python online compiler
+- **IA generativa**: tipos de ia
+- **LLM**: vllm, llm leaderboard, google llm notebook
+- **RAG**: rag ai
+- **n8n**: openrouter, hostinger, zapier
+- **ollama**: claude desktop, groq, claude code
+- **MCP**: cursor, linear mcp, mcp servers
+- **Python**: google 搜索 技巧, chrome devtools protocol, learn python for beginners
+- **FastAPI**: redis, java, django
+- **Laravel**: laravel documentation
+- **Docker**: what is a docker image, what is a docker container, docker docs
+- **Node.js**: node.js backend
 
 <!-- TRENDS_END -->"
