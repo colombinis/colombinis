@@ -3,6 +3,7 @@
 Senior Software Engineer (10+ años de experiencia). PHP es mi ecosistema principal — **Laravel, WordPress, Magento 2**. Aplico **IA a e-commerce y plataformas PHP** para resolver problemas de negocio reales.
 
 ---
+
 ### 🎯 Skills
 
 ```yaml
@@ -13,22 +14,28 @@ stack:
   infra: [Docker, AWS, CI/CD, MySQL, PostgreSQL, Redis]
   ia: [OpenAI API, RAG, n8n, LangChain, LLMs locales, embeddings]
 ```
+
 ---
 
-### 🧠 Proyectos IA + PHP 
+### 🧠 Proyectos IA + PHP
 
 | Proyecto | Stack | Concepto |
 |----------|-------|----------|
-| **[PHP + Ollama RAG Chatbot](https://github.com/colombinis/php-ollama-rag-chatbot)** | PHP vanilla + Ollama (llama3.2) + SQLite + LangChain | Chatbot RAG completo: embeddings + búsqueda semántica + LLM local + orquestación con LangChain. Zero framework dependencies. Mock mode sin Ollama. |
-| **AI Automatizar carga de producto** | Magento 2 / WooCommerce + LLM + Vision API | Módulo que genera descripciones de producto por perfil demográfico usando IA |
-| **AI Contenido ultra personalizado** | WordPress + LLM client-side + GEO IP API | Plugin que genera contenido dinámico por segmentos de potenciales clientes (país, ciudad, dispositivo, referrer) usando IA |
-| **[AI Admin Assistant (WordPress)](https://github.com/colombinis/ai-admin-assistant-wordpress)** | WordPress + RAG + Ollama + Docker | Chatbot RAG para el admin de WP: embeddings + búsqueda semántica + LLM local (llama3.2). Sin APIs externas, sin costos recurrentes. Desarrollado con Spec-Driven Development, 6 clases PHP, 4 servicios Docker. Mock mode sin GPU. |
-| **AI Admin Assistant (Magento 2)** | Magento 2 + RAG + LLM local | Módulo que responde preguntas de configuración y soporte desde el admin de Magento 2 |
-| **n8n + PHP Workflows** | n8n + Laravel APIs | Automatizaciones enterprise conectando CRMs, ERPs y e-commerce |
-| **Magento 2 Hyva Theme** | Magento 2 + Hyva + Alpine.js + Tailwind | Theme custom optimizado (LCP < 2.5s, zero JS bloqueante) |
-| **Magento 2 Headless + Astro** | Magento 2 + GraphQL + Astro.js | Frontend headless con catálogo + entidad "Amigos Recomendados" |
-| **WordPress Headless + Astro** | WordPress (API) + Astro.js | WP como CMS headless con frontend estático y preview en vivo |
+| **[AI Product Descriptions (WooCommerce)](https://github.com/colombinis/ai-product-descriptions-woocommerce)** | WordPress + WooCommerce + OpenAI/Ollama + Docker | Plugin que genera descripciones de producto con IA, segmentadas por buyer persona (tono, audiencia, extensión). Soporte dual provider. |
+| **[PHP + Ollama RAG Chatbot](https://github.com/colombinis/php-ollama-rag-chatbot)** | PHP vanilla + Ollama (llama3.2) + SQLite | Chatbot RAG completo: embeddings + búsqueda semántica + LLM local. Zero framework dependencies. Mock mode sin Ollama. |
+| **[AI Admin Assistant (WordPress)](https://github.com/colombinis/ai-admin-assistant-wordpress)** | WordPress + RAG + Ollama + Docker | Chatbot RAG para el admin de WP: embeddings + búsqueda semántica + LLM local (llama3.2). Sin APIs externas, sin costos recurrentes. Mock mode sin GPU. |
 
+### 🔧 Proyectos en desarrollo
+
+| Proyecto | Stack | Concepto |
+|----------|-------|----------|
+| AI Automatizar carga de producto | Magento 2 / WooCommerce + LLM + Vision API | Módulo que genera descripciones de producto por perfil demográfico usando IA |
+| AI Contenido ultra personalizado | WordPress + LLM client-side + GEO IP API | Plugin que genera contenido dinámico por segmentos de potenciales clientes |
+| AI Admin Assistant (Magento 2) | Magento 2 + RAG + LLM local | Módulo que responde preguntas de configuración y soporte desde el admin de Magento 2 |
+| n8n + PHP Workflows | n8n + Laravel APIs | Automatizaciones enterprise conectando CRMs, ERPs y e-commerce |
+| Magento 2 Hyva Theme | Magento 2 + Hyva + Alpine.js + Tailwind | Theme custom optimizado (LCP < 2.5s, zero JS bloqueante) |
+| Magento 2 Headless + Astro | Magento 2 + GraphQL + Astro.js | Frontend headless con catálogo + entidad "Amigos Recomendados" |
+| WordPress Headless + Astro | WordPress (API) + Astro.js | WP como CMS headless con frontend estático y preview en vivo |
 
 ---
 
@@ -36,8 +43,8 @@ stack:
 
 | Proyecto | Stack | Concepto |
 |----------|-------|----------|
-| **Django REST API** | Django + DRF | API RESTful con JWT, paginación y documentación Swagger |
-| **Odoo ERP** | Odoo (Community) | Módulos de inventario, ventas, contabilidad y manufactura |
+| Django REST API | Django + DRF | API RESTful con JWT, paginación y documentación Swagger |
+| Odoo ERP | Odoo (Community) | Módulos de inventario, ventas, contabilidad y manufactura |
 
 ---
 
@@ -45,8 +52,8 @@ stack:
 
 | Proyecto | Stack | Concepto |
 |----------|-------|----------|
-| **AWS Local con MiniStack** | MiniStack + S3, DynamoDB, Lambda, SQS, RDS, ElastiCache | Arquitectura serverless local: Lambda + API Gateway + DynamoDB + S3 + PostgreSQL + Redis + pipeline CI/CD |
-| **Shopify Theme Personalizado** | Shopify + Liquid | Sections dinámicas, metafields y personalización avanzada |
+| AWS Local con MiniStack | MiniStack + S3, DynamoDB, Lambda, SQS, RDS, ElastiCache | Arquitectura serverless local: Lambda + API Gateway + DynamoDB + S3 + PostgreSQL + Redis + pipeline CI/CD |
+| Shopify Theme Personalizado | Shopify + Liquid | Sections dinámicas, metafields y personalización avanzada |
 
 ---
 
