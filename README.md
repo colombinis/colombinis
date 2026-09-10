@@ -51,7 +51,7 @@ stack:
 
 | Proyecto | Stack | Concepto |
 |----------|-------|----------|
-| AWS Local con MiniStack | MiniStack + S3, DynamoDB, Lambda, SQS, RDS, ElastiCache | Arquitectura serverless local: Lambda + API Gateway + DynamoDB + S3 + PostgreSQL + Redis + pipeline CI/CD |
+| **[Serverless Order Pipeline](https://github.com/colombinis/serverless-order-pipeline)** | AWS (Lambda, API Gateway, SQS, Step Functions, DynamoDB, SNS) + Node.js 18 + Serverless Framework | Pipeline serverless de fulfillment de órdenes: crea orden asíncrona → procesa stock → reserva inventario → cobra pago → confirma → notifica. Con manejo de errores (Catch → CancelOrder) y tests unitarios. |
 | Shopify Theme Personalizado | Shopify + Liquid | Sections dinámicas, metafields y personalización avanzada |
 
 ---
