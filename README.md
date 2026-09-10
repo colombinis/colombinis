@@ -34,7 +34,6 @@ stack:
 | AI Admin Assistant (Magento 2) | Magento 2 + RAG + LLM local | Módulo que responde preguntas de configuración y soporte desde el admin de Magento 2 |
 | n8n + PHP Workflows | n8n + Laravel APIs | Automatizaciones enterprise conectando CRMs, ERPs y e-commerce |
 | Magento 2 Hyva Theme | Magento 2 + Hyva + Alpine.js + Tailwind | Theme custom optimizado (LCP < 2.5s, zero JS bloqueante) |
-| Magento 2 Headless + Astro | Magento 2 + GraphQL + Astro.js | Frontend headless con catálogo + entidad "Amigos Recomendados" |
 | WordPress Headless + Astro | WordPress (API) + Astro.js | WP como CMS headless con frontend estático y preview en vivo |
 
 ---
