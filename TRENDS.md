@@ -1,18 +1,16 @@
 
 start_marker = "<!-- TRENDS_START -->
 
-*Última actualización: 2026-10-04 09:14 (Argentina)*
+*Última actualización: 2026-10-11 09:35 (Argentina)*
 
-- **IA**: geminis ia gratis, elevenlabs, luzia ia
-- **IA generativa**: midjourney
-- **LLM**: strata llm, llm arena, codex
-- **RAG**: que es un rag, rag meaning
-- **n8n**: n8n skills, n8n download, n8n desktop
-- **ollama**: hermes agent, lm studio vs ollama, claude
-- **MCP**: aseprite mcp, ghidra mcp, chrome devtools mcp
-- **Python**: python 3.12, python download, python online
-- **FastAPI**: python
-- **Docker**: github, docker desktop
-- **Node.js**: lidl near me, wikipedia, node.js download
+- **IA**: luzia ia
+- **LLM**: strata, notebooklm, notebookllm
+- **n8n**: n8n docker image, power automate, n8n pricing
+- **ollama**: hugging face, openrouter, ollama models
+- **MCP**: higgsfield mcp claude, hyperframes, capcut mcp
+- **Python**: programiz python, python data analysis, python 3.10
+- **PHP**: laravel
+- **Magento**: magento ecommerce
+- **Docker**: docker images, docker containerization, podman
 
 <!-- TRENDS_END -->"
