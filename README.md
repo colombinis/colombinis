@@ -1,6 +1,8 @@
 ### Hola 👋, Soy **Sebastián Colombini**
 
-Senior Software Engineer (10+ años de experiencia). PHP es mi ecosistema principal — **Laravel, WordPress, Magento 2**. Aplico **IA a e-commerce y plataformas PHP** para resolver problemas de negocio reales.
+Senior Software Engineer (10+ años de experiencia). Hoy construyo servicios **AWS serverless** (**Lambda, API Gateway, SQS, SNS, Step Functions, DynamoDB**) que reemplazan, dominio por dominio, el core de un monolito PHP legacy en producción. Vengo de plataformas de e-commerce de alto tráfico (**Magento / Adobe Commerce, WordPress**), y me interesa todo lo que tiene que seguir funcionando cuando un paso falla: colas, idempotencia y compensación.
+
+Buscando roles de **backend y platform en e-commerce**.
 
 ---
 
@@ -8,12 +10,30 @@ Senior Software Engineer (10+ años de experiencia). PHP es mi ecosistema princi
 
 ```yaml
 stack:
-  php: [Laravel, WordPress, Magento 2, WooCommerce]
-  python: [Django]
-  frontend: [Astro, Tailwind]
-  infra: [Docker, AWS, CI/CD, MySQL, PostgreSQL, Redis]
-  ia: [OpenAI API, RAG, n8n, LangChain, LLMs locales, embeddings]
+  cloud: [AWS, Lambda, API Gateway, SQS, SNS, Step Functions, DynamoDB, CloudWatch, X-Ray]
+  backend: [Node.js (NestJS, Express), PHP (Laravel, Magento 2, WordPress), Python (Django)]
+  apis: [REST, GraphQL (cliente y servidor), integraciones entre sistemas]
+  calidad: [Jest, PHPUnit (mocks del SDK de AWS), CI/CD (GitHub Actions), Docker, Git]
+  data: [PostgreSQL, MySQL, DynamoDB, Redis, MongoDB]
 ```
+
+---
+
+### ☁️ AWS serverless
+
+| Proyecto | Stack | Concepto |
+|----------|-------|----------|
+| **[Serverless Order Pipeline](https://github.com/colombinis/serverless-order-pipeline)** | AWS (Lambda, API Gateway, SQS, Step Functions, DynamoDB, SNS) + Node.js 18 | Pipeline de fulfillment de órdenes: creación idempotente → reserva de inventario con escritura condicional → cobro → confirmación → notificación. Con DLQ, reintentos con backoff, compensación (saga) y observabilidad (logs estructurados, métricas, X-Ray, alarmas). |
+
+---
+
+### 🔩 Infraestructura y plataformas
+
+| Proyecto | Stack | Concepto |
+|----------|-------|----------|
+| Shopify Theme Personalizado | Shopify + Liquid | Sections dinámicas, metafields y personalización avanzada |
+| Django REST API | Django + DRF | API RESTful con JWT, paginación y documentación Swagger |
+| Odoo ERP | Odoo (Community) | Módulos de inventario, ventas, contabilidad y manufactura |
 
 ---
 
@@ -38,31 +58,14 @@ stack:
 
 ---
 
-### 🔩 Stack PYTHON / ERP
-
-| Proyecto | Stack | Concepto |
-|----------|-------|----------|
-| Django REST API | Django + DRF | API RESTful con JWT, paginación y documentación Swagger |
-| Odoo ERP | Odoo (Community) | Módulos de inventario, ventas, contabilidad y manufactura |
-
----
-
-### 🔩 Infraestructura y Plataformas
-
-| Proyecto | Stack | Concepto |
-|----------|-------|----------|
-| **[Serverless Order Pipeline](https://github.com/colombinis/serverless-order-pipeline)** | AWS (Lambda, API Gateway, SQS, Step Functions, DynamoDB, SNS) + Node.js 18 + Serverless Framework | Pipeline serverless de fulfillment de órdenes: crea orden asíncrona → procesa stock → reserva inventario → cobra pago → confirma → notifica. Con manejo de errores (Catch → CancelOrder) y tests unitarios. |
-| Shopify Theme Personalizado | Shopify + Liquid | Sections dinámicas, metafields y personalización avanzada |
-
----
-
 ### 🏢 Empresas donde trabajé
 
-- **Ameba** — WordPress Developer (performance, CI/CD, integraciones Django)
-- **Valtech** — Magento 2 Developer (módulos críticos, migraciones, soporte L2/L3)
+- **Fenicio.io** — Backend Developer (AWS serverless: Lambda, SQS, API Gateway; migración de un monolito PHP)
+- **Ameba** — Senior Software Engineer (performance, CI/CD, integraciones con Django)
+- **Valtech** — Senior Software Engineer (Magento 2: estabilización post-migración, soporte L2/L3)
 - **Making Sense LLC** — Senior PHP Developer (WordPress, Laravel, Shopify, AWS)
 - **TradeHelm, Inc.** — Senior Software Engineer (Laravel, Vue.js, React, GraphQL)
-- **Globant** — Senior Software Engineer (Drupal, PHP, jQuery)
+- **Globant** — Senior Software Engineer (Drupal, PHP)
 - *Y anteriormente: SoftING SRL, EIyS S.A. — desde 2002*
 
 ---
